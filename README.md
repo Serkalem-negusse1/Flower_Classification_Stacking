@@ -1,4 +1,3 @@
-# Stacking_Iris_Flower_Classification
 # Stacking Classifier Project: Iris Flower Classification
 
 This project demonstrates the power of **stacking ensemble methods** by combining multiple classifiers into a meta-model that aims to outperform individual base models. We use the classic Iris dataset for this classification task.
