@@ -44,7 +44,7 @@ The project provides insights into the effectiveness of stacking ensemble method
 
 ## Next Steps
 
-To further enhance this project, you can consider:
+To further enhance this project, you can consider:-
 * Experimenting with different meta-models (e.g., GradientBoosting or Neural Networks).
 * Adding more diverse base models (e.g., Naive Bayes, XGBoost).
 * Applying the stacking technique to other complex real-world datasets.
