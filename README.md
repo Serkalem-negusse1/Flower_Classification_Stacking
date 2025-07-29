@@ -4,7 +4,7 @@ This project demonstrates the power of **stacking ensemble methods** by combinin
 
 ## Project Overview
 
-This project illustrates the application of stacking ensemble techniques for classification using the Iris dataset. It covers the following key steps:
+This project illustrates the application of stacking ensemble techniques for classification using the Iris dataset. It covers the following key steps:-
 1.  **Data Loading and Exploration**: Loading and initial examination of the Iris dataset.
 2.  **Base Model Training**: Training various Level-0 base models.
 3.  **Stacking Implementation**: Demonstrating the use of `sklearn`'s built-in `StackingClassifier`.
